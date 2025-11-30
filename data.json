@@ -1,0 +1,943 @@
+[
+  {
+    "id": "1",
+    "name": "Apple Juice",
+    "description": "12 minutes",
+    "price": 55,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "2",
+    "name": "Banana Shake",
+    "description": "5 minutes",
+    "price": 70,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "3",
+    "name": "Carrot Mix",
+    "description": "8 minutes",
+    "price": 40,
+    "popular": true,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "4",
+    "name": "Orange Blast",
+    "description": "6 minutes",
+    "price": 65,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "5",
+    "name": "Berry Punch",
+    "description": "10 minutes",
+    "price": 90,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "6",
+    "name": "Pineapple Lassi",
+    "description": "7 minutes",
+    "price": 85,
+    "popular": false,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "7",
+    "name": "Spinach Drink",
+    "description": "9 minutes",
+    "price": 45,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "8",
+    "name": "Mango Lassi",
+    "description": "11 minutes",
+    "price": 95,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "9",
+    "name": "Tomato Zing",
+    "description": "6 minutes",
+    "price": 30,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "10",
+    "name": "Papaya Smoothie",
+    "description": "5 minutes",
+    "price": 80,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "11",
+    "name": "Grape Cooler",
+    "description": "12 minutes",
+    "price": 60,
+    "popular": false,
+    "category": "Juices",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "12",
+    "name": "Watermelon Shake",
+    "description": "7 minutes",
+    "price": 75,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "13",
+    "name": "Beetroot Mix",
+    "description": "8 minutes",
+    "price": 50,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "14",
+    "name": "Kiwi Splash",
+    "description": "9 minutes",
+    "price": 100,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "15",
+    "name": "Strawberry Shake",
+    "description": "4 minutes",
+    "price": 110,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "16",
+    "name": "Chikoo Shake",
+    "description": "5 minutes",
+    "price": 85,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "17",
+    "name": "Mint Cooler",
+    "description": "7 minutes",
+    "price": 25,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "18",
+    "name": "Tender Coconut Shake",
+    "description": "6 minutes",
+    "price": 120,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "19",
+    "name": "Lemon Ginger",
+    "description": "3 minutes",
+    "price": 20,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "20",
+    "name": "Cold Coffee",
+    "description": "7 minutes",
+    "price": 150,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "21",
+    "name": "Peach Mix",
+    "description": "11 minutes",
+    "price": 90,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "22",
+    "name": "Chocolate Shake",
+    "description": "6 minutes",
+    "price": 130,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "23",
+    "name": "Carrot Cooler",
+    "description": "8 minutes",
+    "price": 40,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "24",
+    "name": "Mixed Fruit Lassi",
+    "description": "10 minutes",
+    "price": 100,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "25",
+    "name": "Dragon Fruit Mix",
+    "description": "12 minutes",
+    "price": 140,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "26",
+    "name": "Avocado Shake",
+    "description": "8 minutes",
+    "price": 160,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "27",
+    "name": "Green Detox",
+    "description": "5 minutes",
+    "price": 50,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "28",
+    "name": "Jamun Shot",
+    "description": "4 minutes",
+    "price": 45,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "29",
+    "name": "Sweet Lime",
+    "description": "6 minutes",
+    "price": 35,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "30",
+    "name": "Thick Chocolate Shake",
+    "description": "9 minutes",
+    "price": 180,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "31",
+    "name": "Pear Fresh",
+    "description": "10 minutes",
+    "price": 90,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "32",
+    "name": "Oreo Thick Shake",
+    "description": "7 minutes",
+    "price": 150,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "33",
+    "name": "Broccoli Mix",
+    "description": "11 minutes",
+    "price": 55,
+    "popular": true,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "34",
+    "name": "Black Grape Crush",
+    "description": "5 minutes",
+    "price": 60,
+    "popular": false,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "35",
+    "name": "Muskmelon Juice",
+    "description": "7 minutes",
+    "price": 70,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "36",
+    "name": "Energy Booster",
+    "description": "3 minutes",
+    "price": 45,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "37",
+    "name": "Green Apple Mix",
+    "description": "10 minutes",
+    "price": 90,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "38",
+    "name": "Rose Milk",
+    "description": "4 minutes",
+    "price": 35,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "39",
+    "name": "Fresh Cucumber Juice",
+    "description": "6 minutes",
+    "price": 25,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "40",
+    "name": "Falooda Special",
+    "description": "12 minutes",
+    "price": 160,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "41",
+    "name": "Pomegranate Fresh",
+    "description": "7 minutes",
+    "price": 100,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "42",
+    "name": "Badam Milk",
+    "description": "6 minutes",
+    "price": 95,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "43",
+    "name": "Cabbage Cooler",
+    "description": "8 minutes",
+    "price": 20,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "44",
+    "name": "Virgin Mojito",
+    "description": "5 minutes",
+    "price": 85,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "45",
+    "name": "Lychee Shake",
+    "description": "7 minutes",
+    "price": 110,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "46",
+    "name": "Hot Chocolate",
+    "description": "9 minutes",
+    "price": 140,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "47",
+    "name": "Fresh Celery Juice",
+    "description": "6 minutes",
+    "price": 30,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "48",
+    "name": "Pista Milkshake",
+    "description": "8 minutes",
+    "price": 145,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "49",
+    "name": "Raspberry Cooler",
+    "description": "11 minutes",
+    "price": 130,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "50",
+    "name": "Tender Lime Mix",
+    "description": "5 minutes",
+    "price": 40,
+    "popular": false,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "51",
+    "name": "Fresh Pear Juice",
+    "description": "8 minutes",
+    "price": 60,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "52",
+    "name": "Nutri Shake",
+    "description": "6 minutes",
+    "price": 160,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "53",
+    "name": "Sweet Corn Juice",
+    "description": "7 minutes",
+    "price": 30,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "54",
+    "name": "Rose Lassi",
+    "description": "5 minutes",
+    "price": 70,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "55",
+    "name": "Mango Crush",
+    "description": "10 minutes",
+    "price": 85,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "56",
+    "name": "Iced Latte",
+    "description": "6 minutes",
+    "price": 150,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "57",
+    "name": "Tomato Lime",
+    "description": "4 minutes",
+    "price": 25,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "58",
+    "name": "Jackfruit Shake",
+    "description": "9 minutes",
+    "price": 120,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "59",
+    "name": "Herbal Detox",
+    "description": "7 minutes",
+    "price": 45,
+    "popular": true,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "60",
+    "name": "Blueberry Shake",
+    "description": "11 minutes",
+    "price": 150,
+    "popular": false,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "61",
+    "name": "Melon Mix",
+    "description": "5 minutes",
+    "price": 45,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "62",
+    "name": "Banana Thick Shake",
+    "description": "9 minutes",
+    "price": 110,
+    "popular": true,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "63",
+    "name": "Veg Booster",
+    "description": "8 minutes",
+    "price": 35,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "64",
+    "name": "Fresh Lemonade",
+    "description": "4 minutes",
+    "price": 20,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "65",
+    "name": "Fig Milkshake",
+    "description": "6 minutes",
+    "price": 130,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "66",
+    "name": "Irish Coffee",
+    "description": "8 minutes",
+    "price": 180,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "67",
+    "name": "Cucumber Cooler",
+    "description": "6 minutes",
+    "price": 35,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "68",
+    "name": "Papaya Lassi",
+    "description": "7 minutes",
+    "price": 70,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "69",
+    "name": "Fresh Detox Mix",
+    "description": "9 minutes",
+    "price": 55,
+    "popular": true,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "70",
+    "name": "Classic Milkshake",
+    "description": "6 minutes",
+    "price": 100,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "71",
+    "name": "Pear Punch",
+    "description": "8 minutes",
+    "price": 60,
+    "popular": false,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "72",
+    "name": "Fruit Medley",
+    "description": "10 minutes",
+    "price": 95,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "73",
+    "name": "Carrot-Ginger Mix",
+    "description": "6 minutes",
+    "price": 30,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "74",
+    "name": "Kesar Lassi",
+    "description": "7 minutes",
+    "price": 120,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "75",
+    "name": "Pineapple Chunks",
+    "description": "11 minutes",
+    "price": 90,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "76",
+    "name": "Mocha Cold Brew",
+    "description": "9 minutes",
+    "price": 160,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "77",
+    "name": "Zucchini Drink",
+    "description": "6 minutes",
+    "price": 25,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "78",
+    "name": "Strawberry Lassi",
+    "description": "4 minutes",
+    "price": 85,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "79",
+    "name": "Fresh Kale Booster",
+    "description": "10 minutes",
+    "price": 50,
+    "popular": true,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "80",
+    "name": "Masala Chai Shake",
+    "description": "6 minutes",
+    "price": 120,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "81",
+    "name": "Grapefruit Splash",
+    "description": "8 minutes",
+    "price": 70,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "82",
+    "name": "Butterscotch Milkshake",
+    "description": "7 minutes",
+    "price": 140,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "83",
+    "name": "Spinach Lime",
+    "description": "6 minutes",
+    "price": 30,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "84",
+    "name": "Cold Badam Drink",
+    "description": "8 minutes",
+    "price": 95,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "85",
+    "name": "Berry Smoothie",
+    "description": "7 minutes",
+    "price": 150,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "86",
+    "name": "Ghee Coffee",
+    "description": "9 minutes",
+    "price": 185,
+    "popular": false,
+    "category": "Baigan",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "87",
+    "name": "Cabbage Detox",
+    "description": "4 minutes",
+    "price": 25,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "88",
+    "name": "Cherry Punch",
+    "description": "11 minutes",
+    "price": 110,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "89",
+    "name": "Fresh Ginger Shot",
+    "description": "3 minutes",
+    "price": 15,
+    "popular": true,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "90",
+    "name": "Nutella Shake",
+    "description": "12 minutes",
+    "price": 180,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+  {
+    "id": "91",
+    "name": "Musk Melon Twist",
+    "description": "6 minutes",
+    "price": 60,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "92",
+    "name": "Dry Fruit Shake",
+    "description": "7 minutes",
+    "price": 170,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "93",
+    "name": "Veg Energy Mix",
+    "description": "5 minutes",
+    "price": 30,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "94",
+    "name": "Fresh Orange Juice",
+    "description": "8 minutes",
+    "price": 65,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "95",
+    "name": "Plum Shake",
+    "description": "9 minutes",
+    "price": 140,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "96",
+    "name": "Kesar Badam Milkshake",
+    "description": "10 minutes",
+    "price": 150,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "97",
+    "name": "Pumpkin Cooler",
+    "description": "6 minutes",
+    "price": 25,
+    "popular": false,
+    "category": "Vegetables",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "98",
+    "name": "Blue Lagoon",
+    "description": "5 minutes",
+    "price": 85,
+    "popular": true,
+    "category": "Juices",
+    "image": "assets/images/juice.png"
+  },
+
+  {
+    "id": "99",
+    "name": "Coconut Fresh",
+    "description": "11 minutes",
+    "price": 95,
+    "popular": true,
+    "category": "Fruits",
+    "image": "assets/images/cafe.webp"
+  },
+  {
+    "id": "100",
+    "name": "French Vanilla Shake",
+    "description": "8 minutes",
+    "price": 160,
+    "popular": false,
+    "category": "Snacks",
+    "image": "assets/images/juice.png"
+  }
+]
